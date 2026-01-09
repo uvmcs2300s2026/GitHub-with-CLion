@@ -25,7 +25,8 @@ GitHub now requires access tokens (instead of passwords) for command line and th
 Following the directions through this GitHub webpage to [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * Set the expiration to after the end of the semester.
 * When selecting the permissions, check the options for `repo`, `workflow`, `read:org`, `gist`, and `delete_repo`.
-
+* Here is a [demo video of creating a personal access token](https://uvmoffice-my.sharepoint.com/:v:/g/personal/ldion2_uvm_edu/IQCBbvIsO_iPQ6NrcA1-5r75AYDA3jOJ_ItuDAzRLz9bp4g?e=w252F0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) for your convenience.
+  
 ## Saving the access token
 If you have your github username and password saved on your keychain (or would like to), make sure you copy the token once you have created it and use that as the password.
 
